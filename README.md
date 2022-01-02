@@ -14,6 +14,7 @@ Collection of freqtrade stuff. I made this list so that I can look for things wh
 
 ## Strategy Collections
 [Apollo11 and Saturn11](https://github.com/shanejones/goddard)
+
 [Basic Strategies](https://github.com/freqtrade/freqtrade-strategies)
 
 [Binance futures](https://github.com/adrianceding/simple_binance_futures)
@@ -27,6 +28,10 @@ Collection of freqtrade stuff. I made this list so that I can look for things wh
 [ViN](https://github.com/BillGatesIII/Vires-in-Numeris)
 
 [Another Collection of Strategies from discord](https://github.com/phuchust/freqtrade_strategy)
+
+[Another Collection of Strategies from flightcom](https://github.com/flightcom/freqtrade)
+
+[Collection of Strategies from mablue](https://github.com/mablue/freqtrade-strategies)
 
 ## Youtubes
 
