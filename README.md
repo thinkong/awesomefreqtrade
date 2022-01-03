@@ -33,6 +33,8 @@ Collection of freqtrade stuff. I made this list so that I can look for things wh
 
 [Collection of Strategies from mablue](https://github.com/mablue/freqtrade-strategies)
 
+[Collection of Strategies from jilv220](https://github.com/jilv220/freqtrade-stuff)
+
 ## Youtubes
 
 ## Etc
