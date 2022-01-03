@@ -2,6 +2,8 @@
 Collection of freqtrade stuff. I made this list so that I can look for things when I need but please feel free to contribute via pull requests or issues. 
 
 ## Freqtrade
+Freqtrade is a bot to trade crypto using [cctx](https://github.com/ccxt/ccxt)
+
 [Web](https://www.freqtrade.io)
 
 [Repostiory](https://github.com/freqtrade/freqtrade)
@@ -32,9 +34,18 @@ Collection of freqtrade stuff. I made this list so that I can look for things wh
 
 [Another Collection of Strategies from flightcom](https://github.com/flightcom/freqtrade)
 
+[Collection of Strategies from jilv220](https://github.com/jilv220/freqtrade-stuff)
+### Strategies with lookahead bias
+**The following strategies are known to have lookahead bias. They may look good in backtests but may not perform as well in dryruns or live**
+
 [Collection of Strategies from mablue](https://github.com/mablue/freqtrade-strategies)
 
-[Collection of Strategies from jilv220](https://github.com/jilv220/freqtrade-stuff)
+## Proxies
+Proxy? Proxies are used to avoid api theshold limiations. If you are running a few bots on a single IP, you should consider using a proxy
+
+[Binance](https://github.com/nightshift2k/binance-proxy)
+
+[Kucoin](https://github.com/mikekonan/freqtrade-proxy)
 
 ## Youtubes
 
