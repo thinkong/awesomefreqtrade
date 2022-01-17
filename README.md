@@ -20,21 +20,33 @@ Freqtrade is a bot to trade crypto using [cctx](https://github.com/ccxt/ccxt)
 
 [Binance futures](https://github.com/adrianceding/simple_binance_futures)
 
+[brookmiles](https://github.com/brookmiles/freqtrade-stuff)
+
+[froggleston](https://github.com/froggleston/cryptofrog-strategies)
+
+[hansen1015](https://github.com/hansen1015/freqtrade_strategy)
+
+[Collection of Strategies from jilv220](https://github.com/jilv220/freqtrade-stuff)
+
+[juusseli](https://github.com/Juusseli/Trade)
+
 [MoniGoMani](https://github.com/Rikj000/MoniGoMani)
 
 [NostalgiaForInfinity](https://github.com/iterativv/NostalgiaForInfinity) [Discord](https://discord.gg/twKXhwmxzd)
 
 [Stash86's MultiMA_TSL](https://github.com/stash86/MultiMA_TSL)
 
+[Stash's other collection](https://github.com/stash86/freqtrade_stuff)
+
 [ViN](https://github.com/BillGatesIII/Vires-in-Numeris)
+
+[werkkrew](https://github.com/werkkrew/freqtrade-strategies)
 ### Strategy Collections
 [Basic Strategies](https://github.com/freqtrade/freqtrade-strategies)
 
 [Another Collection of Strategies from discord](https://github.com/phuchust/freqtrade_strategy)
 
 [Another Collection of Strategies from flightcom](https://github.com/flightcom/freqtrade)
-
-[Collection of Strategies from jilv220](https://github.com/jilv220/freqtrade-stuff)
 ### Strategies with lookahead bias
 **The following strategies are known to have lookahead bias. They may look good in backtests but may not perform as well in dryruns or live**
 
