@@ -11,7 +11,7 @@ Freqtrade is a bot to trade crypto using [cctx](https://github.com/ccxt/ccxt)
 [Official Discord](https://discord.gg/uSekVf3B)
 
 ### Unofficial forks
-[DCA Fork](https://github.com/MunkeyBalls/freqtrade/tree/dca-mqtt-update)
+[DCA Fork](https://github.com/MunkeyBalls/freqtrade/tree/dca-mqtt-update) *This is now merged into the official repository develop branch*
 
 
 ## Strategy Collections
