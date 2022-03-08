@@ -62,9 +62,9 @@ Proxy? Proxies are used to avoid api theshold limiations. If you are running a f
 ## Youtubes
 
 ## Etc
-[Hippo's Graphana Chart dryrunning and live running many strategies](https://frequenthippo.com) [Discord](https://discord.gg/yzU6SQpDxN)
+[Hippo's Graphana Chart dryrunning and live running many strategies](https://frequenthippo.com) [Discord](https://discord.gg/EKyvrmKYHH)
 
-[Tranz's Freqtrade Strategy Channel](https://discord.gg/wKwGJRW6)
+[Tranz's Freqtrade Strategy Channel](https://discord.gg/b8xmHugRTs)
 
 [Commandline UI](https://github.com/froggleston/freqtrade-frogtrade9000)
 
