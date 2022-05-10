@@ -44,6 +44,8 @@ Freqtrade is a bot to trade crypto using [cctx](https://github.com/ccxt/ccxt)
 ### Strategy Collections
 [Basic Strategies](https://github.com/freqtrade/freqtrade-strategies)
 
+[E0V1E](https://github.com/ssssi/freqtrade_strs)
+
 [Another Collection of Strategies from discord](https://github.com/phuchust/freqtrade_strategy)
 
 [Another Collection of Strategies from flightcom](https://github.com/flightcom/freqtrade)
